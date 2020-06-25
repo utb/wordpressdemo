@@ -1,3 +1,11 @@
 ## Hola mundo desde docker ##
 
-Escribiendo desde el servidor
+Instalar previamente:
+ - git
+ - Docker CE
+ - Docker Compose
+
+Dentro de la carpeta ejecutar:
+
+ docker-compose up
+
