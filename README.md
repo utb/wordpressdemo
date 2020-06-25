@@ -7,5 +7,5 @@ Instalar previamente:
 
 Dentro de la carpeta ejecutar:
 
- docker-compose up
+    docker-compose up
 
